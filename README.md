@@ -1,4 +1,4 @@
-![QuantumHall-Lab cover](assets/cover.png)
+![QuantumHall-Lab cover](QuantumHall-Lab%20cover.png)
 
 # QuantumHall-Lab 🌀⚛️
 
